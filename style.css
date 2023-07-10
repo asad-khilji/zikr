@@ -1,0 +1,10 @@
+main {
+    max-width: 1250px;
+    margin: auto;
+    text-align: right;
+}
+
+p {
+    line-height: 2;
+    font-size: 46px;
+}
